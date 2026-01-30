@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ae as h}from"./chunks/framework.187_CF1S.js";const m=JSON.parse('{"title":"JUNCRAFT链接公示","description":"","frontmatter":{},"headers":[],"relativePath":"lj.md","filePath":"lj.md"}'),o={name:"lj.md"};function c(l,a,s,n,d,i){return t(),r("div",null,a[0]||(a[0]=[h("",9)]))}const q=e(o,[["render",c]]);export{m as __pageData,q as default};

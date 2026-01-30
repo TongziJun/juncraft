@@ -1,0 +1,1 @@
+import{_ as l,c as i,o,ae as r}from"./chunks/framework.187_CF1S.js";const f=JSON.parse('{"title":"JUNCRAFT","description":"","frontmatter":{},"headers":[],"relativePath":"tos.md","filePath":"tos.md"}'),n={name:"tos.md"};function s(e,t,g,a,d,h){return o(),i("div",null,t[0]||(t[0]=[r("",49)]))}const u=l(n,[["render",s]]);export{f as __pageData,u as default};
