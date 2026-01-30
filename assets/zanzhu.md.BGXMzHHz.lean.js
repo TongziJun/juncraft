@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as e,ae as t}from"./chunks/framework.U1Gow_7P.js";const c=JSON.parse('{"title":"JUNCRAFT赞助榜单","description":"","frontmatter":{},"headers":[],"relativePath":"zanzhu.md","filePath":"zanzhu.md"}'),r={name:"zanzhu.md"};function n(o,a,h,u,d,_){return e(),i("div",null,a[0]||(a[0]=[t("",16)]))}const b=l(r,[["render",n]]);export{c as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as l,c as r,o as a,ae as i}from"./chunks/framework.U1Gow_7P.js";const u=JSON.parse('{"title":"互通服服务器教程","description":"","frontmatter":{},"headers":[],"relativePath":"java.md","filePath":"java.md"}'),e={name:"java.md"};function s(n,t,o,p,c,g){return a(),r("div",null,t[0]||(t[0]=[i("",20)]))}const d=l(e,[["render",s]]);export{u as __pageData,d as default};

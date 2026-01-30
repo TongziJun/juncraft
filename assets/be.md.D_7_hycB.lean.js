@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as t,ae as e}from"./chunks/framework.U1Gow_7P.js";const k=JSON.parse('{"title":"基岩版服务器教程","description":"","frontmatter":{},"headers":[],"relativePath":"be.md","filePath":"be.md"}'),n={name:"be.md"};function l(p,s,r,o,h,c){return t(),i("div",null,s[0]||(s[0]=[e("",14)]))}const E=a(n,[["render",l]]);export{k as __pageData,E as default};
