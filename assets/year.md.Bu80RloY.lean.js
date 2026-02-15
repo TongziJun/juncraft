@@ -1,0 +1,1 @@
+import{_ as r,c as t,o as e,ae as o}from"./chunks/framework.U1Gow_7P.js";const b=JSON.parse('{"title":"JUNCRAFT 2026跨年晚会活动方案","description":"","frontmatter":{},"headers":[],"relativePath":"year.md","filePath":"year.md"}'),l={name:"year.md"};function i(n,a,h,s,d,c){return e(),t("div",null,a[0]||(a[0]=[o("",51)]))}const g=r(l,[["render",i]]);export{b as __pageData,g as default};
