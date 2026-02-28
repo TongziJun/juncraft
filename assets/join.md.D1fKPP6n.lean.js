@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ae as l}from"./chunks/framework.U1Gow_7P.js";const f=JSON.parse('{"title":"JUNCRAFT地址公示","description":"","frontmatter":{},"headers":[],"relativePath":"join.md","filePath":"join.md"}'),i={name:"join.md"};function n(o,a,c,d,s,_){return t(),r("div",null,a[0]||(a[0]=[l("",6)]))}const h=e(i,[["render",n]]);export{f as __pageData,h as default};

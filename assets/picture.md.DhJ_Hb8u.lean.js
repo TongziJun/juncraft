@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as i,ae as o}from"./chunks/framework.U1Gow_7P.js";const g=JSON.parse('{"title":"🎉 庆典活动合照展示","description":"","frontmatter":{},"headers":[],"relativePath":"picture.md","filePath":"picture.md"}'),r={name:"picture.md"};function n(c,a,s,l,p,d){return i(),e("div",null,a[0]||(a[0]=[o("",9)]))}const _=t(r,[["render",n]]);export{g as __pageData,_ as default};
