@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as a,ae as n}from"./chunks/framework.U1Gow_7P.js";const x=JSON.parse('{"title":"🔗 链接公示 · 全平台入口","description":"","frontmatter":{},"headers":[],"relativePath":"lj.md","filePath":"lj.md"}'),l={name:"lj.md"};function d(s,t,i,o,c,h){return a(),r("div",null,t[0]||(t[0]=[n("",5)]))}const b=e(l,[["render",d]]);export{x as __pageData,b as default};
