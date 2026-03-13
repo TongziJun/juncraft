@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,ae as l}from"./chunks/framework.U1Gow_7P.js";const g=JSON.parse('{"title":"🌍 JUNCRAFT 服务器地址公示","description":"","frontmatter":{},"headers":[],"relativePath":"join.md","filePath":"join.md"}'),o={name:"join.md"};function n(d,t,s,i,c,h){return r(),a("div",null,t[0]||(t[0]=[l("",16)]))}const b=e(o,[["render",n]]);export{g as __pageData,b as default};

@@ -1,0 +1,1 @@
+import{_ as l,c as a,o as e,ae as i}from"./chunks/framework.U1Gow_7P.js";const b=JSON.parse('{"title":"📋 JUNCRAFT 管理组工作与管理规范","description":"","frontmatter":{},"headers":[],"relativePath":"optos.md","filePath":"optos.md"}'),r={name:"optos.md"};function o(n,t,s,h,d,g){return e(),a("div",null,t[0]||(t[0]=[i("",74)]))}const f=l(r,[["render",o]]);export{b as __pageData,f as default};
