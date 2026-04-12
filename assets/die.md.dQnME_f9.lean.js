@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,ae as l}from"./chunks/framework.U1Gow_7P.js";const g=JSON.parse('{"title":"🌅 JUNCRAFT 停运公告","description":"","frontmatter":{},"headers":[],"relativePath":"die.md","filePath":"die.md"}'),o={name:"die.md"};function n(i,t,s,d,p,h){return r(),a("div",null,t[0]||(t[0]=[l("",42)]))}const b=e(o,[["render",n]]);export{g as __pageData,b as default};
